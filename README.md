@@ -38,8 +38,8 @@ MIT License
 
 Special thanks to Alperen Erger for organizing the reading group and guiding the discussions, as well as the following contributors:
 
-Jonathan de Koning
-Melika Golestani
-Vinny Miller
-Thanuka Wijenayaka
-Yaseen Syed
+- Jonathan de Koning
+- Melika Golestani
+- Vinny Miller
+- Thanuka Wijenayaka
+- Yaseen Syed
