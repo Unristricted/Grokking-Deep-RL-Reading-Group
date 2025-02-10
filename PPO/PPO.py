@@ -63,7 +63,6 @@ class PPOAgent:
         self.done_flags = []
 
 
-#??
     def select_action(self, state):
         state = torch.FloatTensor(state).to(device)
         with torch.no_grad():

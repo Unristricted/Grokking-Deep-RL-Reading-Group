@@ -1,6 +1,6 @@
 # MDP Reading Group Code
 
-This repository contains code implementations and experiments for different MDP algorihtms and environments. The code explores various concepts including multi-armed bandits, policy iteration, and value iteration.
+This repository contains code implementations and experiments for different MDP algorihtms and environments. The code explores various concepts including multi-armed bandits, policy iteration, and value iteration. The Frozen Lake enviroment was introduced in Chapter 2 of Grokking Reinforcement Learning by Miguel Morales.
 
 ## Files Overview
 
@@ -30,7 +30,7 @@ This repository contains code implementations and experiments for different MDP 
   - Exponential decay
   - Constant epsilon
 
-### MDP Algorithms
+### Approximate Dynamic Programming Algorithms
 - Policy Evaluation
 - Policy Iteration
 - Value Iteration
