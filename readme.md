@@ -48,9 +48,9 @@ MIT License
 
 Special thanks to the following contributors for their work preparing and presenting the reading group materials:
 
-Alperen Ergur
-Jonathan de Koning
-Melika Golestani
-Vinny Miller
-Thanuka Wijenayaka
-Yaseen Syed
+- Alperen Ergur
+- Jonathan de Koning
+- Melika Golestani
+- Vinny Miller
+- Thanuka Wijenayaka
+- Yaseen Syed
