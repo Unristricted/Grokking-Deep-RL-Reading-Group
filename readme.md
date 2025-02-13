@@ -16,8 +16,8 @@ When we were wrapping up the reading group, a great reference appeared on Arxiv:
 
 The repository is organized into four main sections, each focusing on different aspects of reinforcement learning:
 
-### MDP (Markov Decision Processes)
-Comprehensive collection of MDP algorithm implementations, including multi-armed bandits and classic RL environments.
+### DP-MDP (Dynamic Programming Based Algorithms)
+Comprehensive collection of algorithms when we assume the underlying Markov-Decision-Process in known. 
 
 ### DQN (Deep Q-Networks)
 Implementation of DQN applied to the Brick Breaker game environment. Features both TensorFlow and PyTorch implementations with various improvements and refinements.
