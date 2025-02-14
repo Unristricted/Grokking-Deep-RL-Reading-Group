@@ -4,8 +4,9 @@ This repository contains implementations and experiments from our Reinforcement 
 - "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto
 - "Grokking Deep Reinforcement Learning" by Miguel Morales
 - "Algorithms for Reinforcement Learning" by Csaba Szepesvari
-- "Playing Atari with Deep Reinforcement Learning" by Volodymyr Mnih et al.
-- "Proximal Policy Optimization Algorithms" by John Schulman et al.
+- "Playing Atari with Deep Reinforcement Learning" by Volodymyr Mnih and friends
+- "Addressing Function Approximation Error in Actor-Critic Methods" by Fujimoto and friends
+- "Proximal Policy Optimization Algorithms" by John Schulman and friends
 - "Numerical Optimization" by Jorge Nocedal and Stephen J. Wright
 - "Probalistic Machine Learning: An Introduction" by Kevin Murphy
 
